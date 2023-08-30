@@ -4,4 +4,4 @@ NPM     : 2206081585
 
 Kelas   : PBP A
 
-Jurusan : Ilmu Komputer
+Jurusan : Ilmu Komputer Sistem
